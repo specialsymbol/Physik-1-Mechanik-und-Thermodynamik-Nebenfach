@@ -1,0 +1,27 @@
+Request to encode 1/12 as a character
+
+
+Hello! 
+
+I've been looking through the fractions included in Unicode, as here:
+
+http://unicode-table.com/en/blocks/number-forms/
+respectively http://unicode.org/charts/PDF/U0080.pdf
+
+and here:
+
+http://unicode-table.com/en/blocks/latin-1-supplement/
+respectively http://unicode.org/charts/PDF/U0080.pdf
+
+So, the most important first: I think 1/12th should be added as a separate character.
+The reason: it is used a lot in chemistry and physics, as the unified atomic mass unit is defined as one twelfth of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state.
+
+Of course this might change, but right now it is quite important - and it's somewhat unlikely to change. Providing it as a unicode character would allow for better accessibility to this important topic.
+
+Another thing that tripped my attention: the unique 7th and 9th fractions (save for the respectively first one) are missing, although the unique 8th fractions (3/8, 5/8, 7/8) are included [As well as everything bigger than and including the 6th fractions (5/6; 2/5, 3/5, 4/5; 3/4; 2/3)].
+
+Is there a reason for this?
+
+Thanks!
+
+human3@unicode.org
