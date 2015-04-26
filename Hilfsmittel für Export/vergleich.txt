@@ -1,0 +1,1112 @@
+Comparing files SKRIPT 1\Ableitung in Fehlerrechnung.odf and SKRIPT 01\Ableitung in Fehlerrechnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\absoluter Fehler.odf and SKRIPT 01\absoluter Fehler.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Bessel-Korrektur der verzerrten SchÑtzfunktion.odf and SKRIPT 01\Bessel-Korrektur der verzerrten SchÑtzfunktion.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\ErlÑuterung zur Ableitung in Fehlerrechnung.odf and SKRIPT 01\ErlÑuterung zur Ableitung in Fehlerrechnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Gau·verteilung.odf and SKRIPT 01\Gau·verteilung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\maximaler absoluter Fehler mittels Fehlerfortpflanzung.odf and SKRIPT 01\maximaler absoluter Fehler mittels Fehlerfortpflanzung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\maximaler relativer Fehler mittels Fehlerfortpflanzung.odf and SKRIPT 01\maximaler relativer Fehler mittels Fehlerfortpflanzung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Mittelwert.odf and SKRIPT 01\Mittelwert.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\relativer Fehler.odf and SKRIPT 01\relativer Fehler.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Skript 1 fertig 2.odp and SKRIPT 01\Skript 1 fertig 2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Skript 1 fertig 3.odp and SKRIPT 01\Skript 1 fertig 3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Skript 1 fertig.odp and SKRIPT 01\Skript 1 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Skript 1.odp and SKRIPT 01\Skript 1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Standardabweichung des Mittelwerts.odf and SKRIPT 01\Standardabweichung des Mittelwerts.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Standardabweichung.odf and SKRIPT 01\Standardabweichung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 1\Vorfaktor fÅr erwartungstreue SchÑtzfunktion.odf and SKRIPT 01\Vorfaktor fÅr erwartungstreue SchÑtzfunktion.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Durchschnittsbeschleunigung ausfÅhrlich.odf and SKRIPT 02\Durchschnittsbeschleunigung ausfÅhrlich.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Durchschnittsbeschleunigung.odf and SKRIPT 02\Durchschnittsbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Durchschnittsgeschwindigkeit ausfÅhrlich.odf and SKRIPT 02\Durchschnittsgeschwindigkeit ausfÅhrlich.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Durchschnittsgeschwindigkeit.odf and SKRIPT 02\Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Momentanbeschleunigung.odf and SKRIPT 02\Momentanbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Momentangeschwindigkeit.odf and SKRIPT 02\Momentangeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2 v1.odp and SKRIPT 02\Skript 2 v1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2 v2.odp and SKRIPT 02\Skript 2 v2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2 v3 fertig.odp and SKRIPT 02\Skript 2 v3 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2 v4 fertig.odp and SKRIPT 02\Skript 2 v4 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2 v5 fertig.odp and SKRIPT 02\Skript 2 v5 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Skript 2.odp and SKRIPT 02\Skript 2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 2\Wegstrecke aus Durchschnittsgeschwindigkeit.odf and SKRIPT 02\Wegstrecke aus Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Euklidische Norm.odf and SKRIPT 03\Euklidische Norm.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Komponentenweise Addition von Vektoren.odf and SKRIPT 03\Komponentenweise Addition von Vektoren.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Skript 3 v1.odp and SKRIPT 03\Skript 3 v1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Skript 3 v2.odp and SKRIPT 03\Skript 3 v2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Skript 3 v3.odp and SKRIPT 03\Skript 3 v3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Skript 3 v4.odp and SKRIPT 03\Skript 3 v4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 3\Skript 3.odp and SKRIPT 03\Skript 3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Nettokraft.odf and SKRIPT 04\Nettokraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Skript 4.1.odp and SKRIPT 04\Skript 4.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Skript 4.2.odp and SKRIPT 04\Skript 4.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Skript 4.3.odp and SKRIPT 04\Skript 4.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Skript 4.4.odp and SKRIPT 04\Skript 4.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 4\Skript 4.odp and SKRIPT 04\Skript 4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Arbeit an einer Feder.odf and SKRIPT 05\Arbeit an einer Feder.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Arbeit bei konstanter Kraft in beliebiger Richtung.odf and SKRIPT 05\Arbeit bei konstanter Kraft in beliebiger Richtung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Arbeit bei konstanter Kraft.odf and SKRIPT 05\Arbeit bei konstanter Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Arbeit.odf and SKRIPT 05\Arbeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Beispiel Wirkungsgrad.odf and SKRIPT 05\Beispiel Wirkungsgrad.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Durchschnittsfederkraft.odf and SKRIPT 05\Durchschnittsfederkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Durchschnittsleistung bei konstanter Kraft.odf and SKRIPT 05\Durchschnittsleistung bei konstanter Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Durchschnittsleistung.odf and SKRIPT 05\Durchschnittsleistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Energieerhaltung.odf and SKRIPT 05\Energieerhaltung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Herleitung Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf and SKRIPT 05\Herleitung Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf and SKRIPT 05\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit.odf and SKRIPT 05\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Hookesches Gesetz.odf and SKRIPT 05\Hookesches Gesetz.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Joule (Einheit).odf and SKRIPT 05\Joule (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Kinetische Energie.odf and SKRIPT 05\Kinetische Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Kurvenintegral.odf and SKRIPT 05\Kurvenintegral.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Leistung.odf and SKRIPT 05\Leistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\mechanische Gesamtenergie.odf and SKRIPT 05\mechanische Gesamtenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Newton (Einheit).odf and SKRIPT 05\Newton (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Potentielle Energie einer Feder.odf and SKRIPT 05\Potentielle Energie einer Feder.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Potentielle Lageenergie in Schwerkraft.odf and SKRIPT 05\Potentielle Lageenergie in Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.1.odp and SKRIPT 05\Skript 5.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.2.odp and SKRIPT 05\Skript 5.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.3.odp and SKRIPT 05\Skript 5.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.4.odp and SKRIPT 05\Skript 5.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.5 fertig.odp and SKRIPT 05\Skript 5.5 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Skript 5.odp and SKRIPT 05\Skript 5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Summe der vektoriellen Wegelemente.odf and SKRIPT 05\Summe der vektoriellen Wegelemente.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\vektorielles Wegelement 2.odf and SKRIPT 05\vektorielles Wegelement 2.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\vektorielles Wegelement.odf and SKRIPT 05\vektorielles Wegelement.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\vom vektoriellen Wegelement zur Wegstrecke.odf and SKRIPT 05\vom vektoriellen Wegelement zur Wegstrecke.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Watt (Einheit).odf and SKRIPT 05\Watt (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 5\Wirkungsgrad.odf and SKRIPT 05\Wirkungsgrad.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Gesamtimpuls.odf and SKRIPT 06\Gesamtimpuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Impuls.odf and SKRIPT 06\Impuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Impulserhaltung.odf and SKRIPT 06\Impulserhaltung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Kraft als ImpulsÑnderung.odf and SKRIPT 06\Kraft als ImpulsÑnderung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Kraftsto·.odf and SKRIPT 06\Kraftsto·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Schwerpunkt.odf and SKRIPT 06\Schwerpunkt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Skript 6.2.odp and SKRIPT 06\Skript 6.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Skript 6.3.odp and SKRIPT 06\Skript 6.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Skript 6.4 fertig.odp and SKRIPT 06\Skript 6.4 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Skript 6.odp and SKRIPT 06\Skript 6.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Total inelastischer Sto·.odf and SKRIPT 06\Total inelastischer Sto·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Zusammenhang Impuls und kin Energie.odf and SKRIPT 06\Zusammenhang Impuls und kin Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 6\Zusammenhang Impuls und Kraft.odf and SKRIPT 06\Zusammenhang Impuls und Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Betrag der Winkelverschiebung.odf and SKRIPT 07\Betrag der Winkelverschiebung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Betrag der Zentripetalbeschleunigung.odf and SKRIPT 07\Betrag der Zentripetalbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Drittes Keplersches Gesetz.odf and SKRIPT 07\Drittes Keplersches Gesetz.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Durchschnittsgeschwindigkeit der Rotation.odf and SKRIPT 07\Durchschnittsgeschwindigkeit der Rotation.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Erdbeschleunigung.odf and SKRIPT 07\Erdbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Fluchtgeschwindigkeit fertig einfacher.odf and SKRIPT 07\Fluchtgeschwindigkeit fertig einfacher.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Fluchtgeschwindigkeit fertig.odf and SKRIPT 07\Fluchtgeschwindigkeit fertig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Fluchtgeschwindigkeit unfertig.odf and SKRIPT 07\Fluchtgeschwindigkeit unfertig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Frequenz zu Periode.odf and SKRIPT 07\Frequenz zu Periode.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Gesamtbeschleunigung der Kreisbewegung.odf and SKRIPT 07\Gesamtbeschleunigung der Kreisbewegung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Integral zur potentiellen Energie im Gravitationsfeld.odf and SKRIPT 07\Integral zur potentiellen Energie im Gravitationsfeld.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Kepler-second-law.svg and SKRIPT 07\Kepler-second-law.svg
+***** SKRIPT 7\Kepler-second-law.svg
+     d="M 239.38371 93.09964 A 113.77685 84.549767 0 1 1  11.830009,93.09964 A 113.77685 84.549767 0 1 1  239.38371 93.09964 z"
+
+     transform="matrix(1.0227575,0,0,0.9997584,-2.9891651,-0.323179)" />
+***** SKRIPT 07\Kepler-second-law.svg
+     d="M 239.38371 93.09964 A 113.77685 84.549767 0 1 1  11.830009,93.09964 A 113.77685 84.549767 0 1 1  239.38371 93.09964 z"
+     transform="matrix(1.0227575,0,0,0.9997584,-2.9891651,-0.323179)" />
+*****
+
+Comparing files SKRIPT 7\Kepler_laws_diagram.svg and SKRIPT 07\Kepler_laws_diagram.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Potentielle Energie im Gravitationsfeld verbesserte Darstellung.odf and SKRIPT 07\Potentielle Energie im Gravitationsfeld verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Potentielle Energie im Gravitationsfeld.odf and SKRIPT 07\Potentielle Energie im Gravitationsfeld.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Richtung der Schwerkraft besser.odf and SKRIPT 07\Richtung der Schwerkraft besser.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Richtung der Schwerkraft.odf and SKRIPT 07\Richtung der Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Schwerkraft.odf and SKRIPT 07\Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.1.odp and SKRIPT 07\Skript 7.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.2.odp and SKRIPT 07\Skript 7.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.3.odp and SKRIPT 07\Skript 7.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.4.odp and SKRIPT 07\Skript 7.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.5.odp and SKRIPT 07\Skript 7.5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Skript 7.odp and SKRIPT 07\Skript 7.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Transformation kartesisch-polar.odf and SKRIPT 07\Transformation kartesisch-polar.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Transformation polar-kartesisch.odf and SKRIPT 07\Transformation polar-kartesisch.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Umrechnung von Winkel- in Tangentialgeschwindigkeit.odf and SKRIPT 07\Umrechnung von Winkel- in Tangentialgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Winkelbeschleunigung.odf and SKRIPT 07\Winkelbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 7\Winkelgeschwindigkeit.odf and SKRIPT 07\Winkelgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Arc-geometry.svg and SKRIPT 08\Arc-geometry.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Drehimpuls skalar (bessere Darstellung).odf and SKRIPT 08\Drehimpuls skalar (bessere Darstellung).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Drehimpuls skalar.odf and SKRIPT 08\Drehimpuls skalar.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Drehimpuls und Drehmoment.odf and SKRIPT 08\Drehimpuls und Drehmoment.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Drehimpuls.odf and SKRIPT 08\Drehimpuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Drehmoment von Kraft und Kraftarm mit beliebigem Winkel.odf and SKRIPT 08\Drehmoment von Kraft und Kraftarm mit beliebigem Winkel.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Kinematische Gleichung fÅr Rotationsenergie (bunt).odf and SKRIPT 08\Kinematische Gleichung fÅr Rotationsenergie (bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Kinematische Gleichung fÅr Rotationsenergie.odf and SKRIPT 08\Kinematische Gleichung fÅr Rotationsenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Kreisbogen im Bogenma·.odf and SKRIPT 08\Kreisbogen im Bogenma·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Kreisbogen im Gradma·.odf and SKRIPT 08\Kreisbogen im Gradma·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Notiz.txt and SKRIPT 08\Notiz.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit (kurz).odf and SKRIPT 08\Rotationsarbeit (kurz).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung).odf and SKRIPT 08\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung, bunt).odf and SKRIPT 08\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung, bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit in Bezug zur Energie.odf and SKRIPT 08\Rotationsarbeit in Bezug zur Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung (bunt).odf and SKRIPT 08\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung (bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung.odf and SKRIPT 08\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsarbeit.odf and SKRIPT 08\Rotationsarbeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsenergie.odf and SKRIPT 08\Rotationsenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsgleichgewicht.odf and SKRIPT 08\Rotationsgleichgewicht.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Rotationsleistung.odf and SKRIPT 08\Rotationsleistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Skript 8.1.odp and SKRIPT 08\Skript 8.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Skript 8.2.odp and SKRIPT 08\Skript 8.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Skript 8.3.odp and SKRIPT 08\Skript 8.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Skript 8.4.odp and SKRIPT 08\Skript 8.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 8\Skript 8.odp and SKRIPT 08\Skript 8.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 8\TrÑgheitsmoment analog zur Masse.odf and SKRIPT 08\TrÑgheitsmoment analog zur Masse.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 8\TrÑgheitsmoment eines Festkîrpers.odf and SKRIPT 08\TrÑgheitsmoment eines Festkîrpers.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Archimedisches Prinzip.odf and SKRIPT 09\Archimedisches Prinzip.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Avogadro-Konstante.odf and SKRIPT 09\Avogadro-Konstante.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Bernoullische Gleichung farbig.odf and SKRIPT 09\Bernoullische Gleichung farbig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Bernoullische Gleichung.odf and SKRIPT 09\Bernoullische Gleichung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Definition_Viskositaet (Originalgrî·e).png and SKRIPT 09\Definition_Viskositaet (Originalgrî·e).png
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Definition_Viskositaet.png and SKRIPT 09\Definition_Viskositaet.png
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Dehnung.odf and SKRIPT 09\Dehnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Druck.odf and SKRIPT 09\Druck.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\ElastizitÑtsmodul.odf and SKRIPT 09\ElastizitÑtsmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\eMail.txt and SKRIPT 09\eMail.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Formeln ViskositÑt.odf and SKRIPT 09\Formeln ViskositÑt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Gesetz von Hagen-Poiseuille.odf and SKRIPT 09\Gesetz von Hagen-Poiseuille.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\hydrostatischer Druck.odf and SKRIPT 09\hydrostatischer Druck.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Hydrostatisches_Paradoxon2.svg and SKRIPT 09\Hydrostatisches_Paradoxon2.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Hydrostatisches_Paradoxon2.txt and SKRIPT 09\Hydrostatisches_Paradoxon2.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Hydrostatisches_Paradoxon3.svg and SKRIPT 09\Hydrostatisches_Paradoxon3.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 9\KompressibilitÑt.odf and SKRIPT 09\KompressibilitÑt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Kompressionsmodul.odf and SKRIPT 09\Kompressionsmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\KontinuitÑtsgleichung fÅr inkompressible Strîmung.odf and SKRIPT 09\KontinuitÑtsgleichung fÅr inkompressible Strîmung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\mechanische Spannung.odf and SKRIPT 09\mechanische Spannung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Pascalsches Prinzip.odf and SKRIPT 09\Pascalsches Prinzip.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Reynolds-Zahl.odf and SKRIPT 09\Reynolds-Zahl.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Schema_eines_Rohres_mit_Engstelle-Bernoulli.svg and SKRIPT 09\Schema_eines_Rohres_mit_Engstelle-Bernoulli.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Schergeschwindigkeit allgemein.odf and SKRIPT 09\Schergeschwindigkeit allgemein.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Schergeschwindigkeit im symmetrischen Rohr.odf and SKRIPT 09\Schergeschwindigkeit im symmetrischen Rohr.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Schubmodul.odf and SKRIPT 09\Schubmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Shear_scherung.svg and SKRIPT 09\Shear_scherung.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 9\SI-Einheit des Drucks.odf and SKRIPT 09\SI-Einheit des Drucks.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.1.odp and SKRIPT 09\Skript 9.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.2.odp and SKRIPT 09\Skript 9.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.3.odp and SKRIPT 09\Skript 9.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.4 - Copy.odp and SKRIPT 09\Skript 9.4 - Copy.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.4.odp and SKRIPT 09\Skript 9.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.5.odp and SKRIPT 09\Skript 9.5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.6.odp and SKRIPT 09\Skript 9.6.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.7.odp and SKRIPT 09\Skript 9.7.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\Skript 9.odp and SKRIPT 09\Skript 9.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 9\ViskositÑt.odf and SKRIPT 09\ViskositÑt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Ableitung in Fehlerrechnung.odf and SKRIPT 1\Ableitung in Fehlerrechnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\absoluter Fehler.odf and SKRIPT 1\absoluter Fehler.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Bessel-Korrektur der verzerrten SchÑtzfunktion.odf and SKRIPT 1\Bessel-Korrektur der verzerrten SchÑtzfunktion.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\ErlÑuterung zur Ableitung in Fehlerrechnung.odf and SKRIPT 1\ErlÑuterung zur Ableitung in Fehlerrechnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Gau·verteilung.odf and SKRIPT 1\Gau·verteilung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\maximaler absoluter Fehler mittels Fehlerfortpflanzung.odf and SKRIPT 1\maximaler absoluter Fehler mittels Fehlerfortpflanzung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\maximaler relativer Fehler mittels Fehlerfortpflanzung.odf and SKRIPT 1\maximaler relativer Fehler mittels Fehlerfortpflanzung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Mittelwert.odf and SKRIPT 1\Mittelwert.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\relativer Fehler.odf and SKRIPT 1\relativer Fehler.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Skript 1 fertig 2.odp and SKRIPT 1\Skript 1 fertig 2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Skript 1 fertig 3.odp and SKRIPT 1\Skript 1 fertig 3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Skript 1 fertig.odp and SKRIPT 1\Skript 1 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Skript 1.odp and SKRIPT 1\Skript 1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Standardabweichung des Mittelwerts.odf and SKRIPT 1\Standardabweichung des Mittelwerts.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Standardabweichung.odf and SKRIPT 1\Standardabweichung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 01\Vorfaktor fÅr erwartungstreue SchÑtzfunktion.odf and SKRIPT 1\Vorfaktor fÅr erwartungstreue SchÑtzfunktion.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Durchschnittsbeschleunigung ausfÅhrlich.odf and SKRIPT 2\Durchschnittsbeschleunigung ausfÅhrlich.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Durchschnittsbeschleunigung.odf and SKRIPT 2\Durchschnittsbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Durchschnittsgeschwindigkeit ausfÅhrlich.odf and SKRIPT 2\Durchschnittsgeschwindigkeit ausfÅhrlich.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Durchschnittsgeschwindigkeit.odf and SKRIPT 2\Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Momentanbeschleunigung.odf and SKRIPT 2\Momentanbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Momentangeschwindigkeit.odf and SKRIPT 2\Momentangeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2 v1.odp and SKRIPT 2\Skript 2 v1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2 v2.odp and SKRIPT 2\Skript 2 v2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2 v3 fertig.odp and SKRIPT 2\Skript 2 v3 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2 v4 fertig.odp and SKRIPT 2\Skript 2 v4 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2 v5 fertig.odp and SKRIPT 2\Skript 2 v5 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Skript 2.odp and SKRIPT 2\Skript 2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 02\Wegstrecke aus Durchschnittsgeschwindigkeit.odf and SKRIPT 2\Wegstrecke aus Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Euklidische Norm.odf and SKRIPT 3\Euklidische Norm.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Komponentenweise Addition von Vektoren.odf and SKRIPT 3\Komponentenweise Addition von Vektoren.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Skript 3 v1.odp and SKRIPT 3\Skript 3 v1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Skript 3 v2.odp and SKRIPT 3\Skript 3 v2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Skript 3 v3.odp and SKRIPT 3\Skript 3 v3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Skript 3 v4.odp and SKRIPT 3\Skript 3 v4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 03\Skript 3.odp and SKRIPT 3\Skript 3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Nettokraft.odf and SKRIPT 4\Nettokraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Skript 4.1.odp and SKRIPT 4\Skript 4.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Skript 4.2.odp and SKRIPT 4\Skript 4.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Skript 4.3.odp and SKRIPT 4\Skript 4.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Skript 4.4.odp and SKRIPT 4\Skript 4.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 04\Skript 4.odp and SKRIPT 4\Skript 4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Arbeit an einer Feder.odf and SKRIPT 5\Arbeit an einer Feder.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Arbeit bei konstanter Kraft in beliebiger Richtung.odf and SKRIPT 5\Arbeit bei konstanter Kraft in beliebiger Richtung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Arbeit bei konstanter Kraft.odf and SKRIPT 5\Arbeit bei konstanter Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Arbeit.odf and SKRIPT 5\Arbeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Beispiel Wirkungsgrad.odf and SKRIPT 5\Beispiel Wirkungsgrad.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Durchschnittsfederkraft.odf and SKRIPT 5\Durchschnittsfederkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Durchschnittsleistung bei konstanter Kraft.odf and SKRIPT 5\Durchschnittsleistung bei konstanter Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Durchschnittsleistung.odf and SKRIPT 5\Durchschnittsleistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Energieerhaltung.odf and SKRIPT 5\Energieerhaltung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Herleitung Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf and SKRIPT 5\Herleitung Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf and SKRIPT 5\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit.odf and SKRIPT 5\Herleitung der kinetischen Energie Åber die Arbeit mit Newtons zweitem Gesetz und dem Weg aus der Durchschnittsgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Hookesches Gesetz.odf and SKRIPT 5\Hookesches Gesetz.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Joule (Einheit).odf and SKRIPT 5\Joule (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Kinetische Energie.odf and SKRIPT 5\Kinetische Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Kurvenintegral.odf and SKRIPT 5\Kurvenintegral.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Leistung.odf and SKRIPT 5\Leistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\mechanische Gesamtenergie.odf and SKRIPT 5\mechanische Gesamtenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Newton (Einheit).odf and SKRIPT 5\Newton (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Potentielle Energie einer Feder.odf and SKRIPT 5\Potentielle Energie einer Feder.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Potentielle Lageenergie in Schwerkraft.odf and SKRIPT 5\Potentielle Lageenergie in Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.1.odp and SKRIPT 5\Skript 5.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.2.odp and SKRIPT 5\Skript 5.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.3.odp and SKRIPT 5\Skript 5.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.4.odp and SKRIPT 5\Skript 5.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.5 fertig.odp and SKRIPT 5\Skript 5.5 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Skript 5.odp and SKRIPT 5\Skript 5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Summe der vektoriellen Wegelemente.odf and SKRIPT 5\Summe der vektoriellen Wegelemente.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\vektorielles Wegelement 2.odf and SKRIPT 5\vektorielles Wegelement 2.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\vektorielles Wegelement.odf and SKRIPT 5\vektorielles Wegelement.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\vom vektoriellen Wegelement zur Wegstrecke.odf and SKRIPT 5\vom vektoriellen Wegelement zur Wegstrecke.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Watt (Einheit).odf and SKRIPT 5\Watt (Einheit).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 05\Wirkungsgrad.odf and SKRIPT 5\Wirkungsgrad.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Gesamtimpuls.odf and SKRIPT 6\Gesamtimpuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Impuls.odf and SKRIPT 6\Impuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Impulserhaltung.odf and SKRIPT 6\Impulserhaltung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Kraft als ImpulsÑnderung.odf and SKRIPT 6\Kraft als ImpulsÑnderung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Kraftsto·.odf and SKRIPT 6\Kraftsto·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Schwerpunkt.odf and SKRIPT 6\Schwerpunkt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Skript 6.2.odp and SKRIPT 6\Skript 6.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Skript 6.3.odp and SKRIPT 6\Skript 6.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Skript 6.4 fertig.odp and SKRIPT 6\Skript 6.4 fertig.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Skript 6.odp and SKRIPT 6\Skript 6.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Total inelastischer Sto·.odf and SKRIPT 6\Total inelastischer Sto·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Zusammenhang Impuls und kin Energie.odf and SKRIPT 6\Zusammenhang Impuls und kin Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 06\Zusammenhang Impuls und Kraft.odf and SKRIPT 6\Zusammenhang Impuls und Kraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Betrag der Winkelverschiebung.odf and SKRIPT 7\Betrag der Winkelverschiebung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Betrag der Zentripetalbeschleunigung.odf and SKRIPT 7\Betrag der Zentripetalbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Drittes Keplersches Gesetz.odf and SKRIPT 7\Drittes Keplersches Gesetz.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Durchschnittsgeschwindigkeit der Rotation.odf and SKRIPT 7\Durchschnittsgeschwindigkeit der Rotation.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Erdbeschleunigung.odf and SKRIPT 7\Erdbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Fluchtgeschwindigkeit fertig einfacher.odf and SKRIPT 7\Fluchtgeschwindigkeit fertig einfacher.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Fluchtgeschwindigkeit fertig.odf and SKRIPT 7\Fluchtgeschwindigkeit fertig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Fluchtgeschwindigkeit unfertig.odf and SKRIPT 7\Fluchtgeschwindigkeit unfertig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Frequenz zu Periode.odf and SKRIPT 7\Frequenz zu Periode.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Gesamtbeschleunigung der Kreisbewegung.odf and SKRIPT 7\Gesamtbeschleunigung der Kreisbewegung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Integral zur potentiellen Energie im Gravitationsfeld.odf and SKRIPT 7\Integral zur potentiellen Energie im Gravitationsfeld.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Kepler-second-law.svg and SKRIPT 7\Kepler-second-law.svg
+***** SKRIPT 07\Kepler-second-law.svg
+     d="M 239.38371 93.09964 A 113.77685 84.549767 0 1 1  11.830009,93.09964 A 113.77685 84.549767 0 1 1  239.38371 93.09964 z"
+     transform="matrix(1.0227575,0,0,0.9997584,-2.9891651,-0.323179)" />
+***** SKRIPT 7\Kepler-second-law.svg
+     d="M 239.38371 93.09964 A 113.77685 84.549767 0 1 1  11.830009,93.09964 A 113.77685 84.549767 0 1 1  239.38371 93.09964 z"
+
+     transform="matrix(1.0227575,0,0,0.9997584,-2.9891651,-0.323179)" />
+*****
+
+Comparing files SKRIPT 07\Kepler_laws_diagram.svg and SKRIPT 7\Kepler_laws_diagram.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Potentielle Energie im Gravitationsfeld verbesserte Darstellung.odf and SKRIPT 7\Potentielle Energie im Gravitationsfeld verbesserte Darstellung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Potentielle Energie im Gravitationsfeld.odf and SKRIPT 7\Potentielle Energie im Gravitationsfeld.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Richtung der Schwerkraft besser.odf and SKRIPT 7\Richtung der Schwerkraft besser.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Richtung der Schwerkraft.odf and SKRIPT 7\Richtung der Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Schwerkraft.odf and SKRIPT 7\Schwerkraft.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.1.odp and SKRIPT 7\Skript 7.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.2.odp and SKRIPT 7\Skript 7.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.3.odp and SKRIPT 7\Skript 7.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.4.odp and SKRIPT 7\Skript 7.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.5.odp and SKRIPT 7\Skript 7.5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Skript 7.odp and SKRIPT 7\Skript 7.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Transformation kartesisch-polar.odf and SKRIPT 7\Transformation kartesisch-polar.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Transformation polar-kartesisch.odf and SKRIPT 7\Transformation polar-kartesisch.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Umrechnung von Winkel- in Tangentialgeschwindigkeit.odf and SKRIPT 7\Umrechnung von Winkel- in Tangentialgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Winkelbeschleunigung.odf and SKRIPT 7\Winkelbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 07\Winkelgeschwindigkeit.odf and SKRIPT 7\Winkelgeschwindigkeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Arc-geometry.svg and SKRIPT 8\Arc-geometry.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Drehimpuls skalar (bessere Darstellung).odf and SKRIPT 8\Drehimpuls skalar (bessere Darstellung).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Drehimpuls skalar.odf and SKRIPT 8\Drehimpuls skalar.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Drehimpuls und Drehmoment.odf and SKRIPT 8\Drehimpuls und Drehmoment.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Drehimpuls.odf and SKRIPT 8\Drehimpuls.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Drehmoment von Kraft und Kraftarm mit beliebigem Winkel.odf and SKRIPT 8\Drehmoment von Kraft und Kraftarm mit beliebigem Winkel.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Kinematische Gleichung fÅr Rotationsenergie (bunt).odf and SKRIPT 8\Kinematische Gleichung fÅr Rotationsenergie (bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Kinematische Gleichung fÅr Rotationsenergie.odf and SKRIPT 8\Kinematische Gleichung fÅr Rotationsenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Kreisbogen im Bogenma·.odf and SKRIPT 8\Kreisbogen im Bogenma·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Kreisbogen im Gradma·.odf and SKRIPT 8\Kreisbogen im Gradma·.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Notiz.txt and SKRIPT 8\Notiz.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit (kurz).odf and SKRIPT 8\Rotationsarbeit (kurz).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung).odf and SKRIPT 8\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung, bunt).odf and SKRIPT 8\Rotationsarbeit in Bezug zur Energie (kleinere Darstellung, bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit in Bezug zur Energie.odf and SKRIPT 8\Rotationsarbeit in Bezug zur Energie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung (bunt).odf and SKRIPT 8\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung (bunt).odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung.odf and SKRIPT 8\Rotationsarbeit mit TrÑgheitsmoment und Winkelbeschleunigung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsarbeit.odf and SKRIPT 8\Rotationsarbeit.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsenergie.odf and SKRIPT 8\Rotationsenergie.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsgleichgewicht.odf and SKRIPT 8\Rotationsgleichgewicht.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Rotationsleistung.odf and SKRIPT 8\Rotationsleistung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Skript 8.1.odp and SKRIPT 8\Skript 8.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Skript 8.2.odp and SKRIPT 8\Skript 8.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Skript 8.3.odp and SKRIPT 8\Skript 8.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Skript 8.4.odp and SKRIPT 8\Skript 8.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 08\Skript 8.odp and SKRIPT 8\Skript 8.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 08\TrÑgheitsmoment analog zur Masse.odf and SKRIPT 8\TrÑgheitsmoment analog zur Masse.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 08\TrÑgheitsmoment eines Festkîrpers.odf and SKRIPT 8\TrÑgheitsmoment eines Festkîrpers.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Archimedisches Prinzip.odf and SKRIPT 9\Archimedisches Prinzip.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Avogadro-Konstante.odf and SKRIPT 9\Avogadro-Konstante.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Bernoullische Gleichung farbig.odf and SKRIPT 9\Bernoullische Gleichung farbig.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Bernoullische Gleichung.odf and SKRIPT 9\Bernoullische Gleichung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Definition_Viskositaet (Originalgrî·e).png and SKRIPT 9\Definition_Viskositaet (Originalgrî·e).png
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Definition_Viskositaet.png and SKRIPT 9\Definition_Viskositaet.png
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Dehnung.odf and SKRIPT 9\Dehnung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Druck.odf and SKRIPT 9\Druck.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\ElastizitÑtsmodul.odf and SKRIPT 9\ElastizitÑtsmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\eMail.txt and SKRIPT 9\eMail.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Formeln ViskositÑt.odf and SKRIPT 9\Formeln ViskositÑt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Gesetz von Hagen-Poiseuille.odf and SKRIPT 9\Gesetz von Hagen-Poiseuille.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\hydrostatischer Druck.odf and SKRIPT 9\hydrostatischer Druck.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Hydrostatisches_Paradoxon2.svg and SKRIPT 9\Hydrostatisches_Paradoxon2.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Hydrostatisches_Paradoxon2.txt and SKRIPT 9\Hydrostatisches_Paradoxon2.txt
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Hydrostatisches_Paradoxon3.svg and SKRIPT 9\Hydrostatisches_Paradoxon3.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 09\KompressibilitÑt.odf and SKRIPT 9\KompressibilitÑt.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Kompressionsmodul.odf and SKRIPT 9\Kompressionsmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\KontinuitÑtsgleichung fÅr inkompressible Strîmung.odf and SKRIPT 9\KontinuitÑtsgleichung fÅr inkompressible Strîmung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\mechanische Spannung.odf and SKRIPT 9\mechanische Spannung.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Pascalsches Prinzip.odf and SKRIPT 9\Pascalsches Prinzip.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Reynolds-Zahl.odf and SKRIPT 9\Reynolds-Zahl.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Schema_eines_Rohres_mit_Engstelle-Bernoulli.svg and SKRIPT 9\Schema_eines_Rohres_mit_Engstelle-Bernoulli.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Schergeschwindigkeit allgemein.odf and SKRIPT 9\Schergeschwindigkeit allgemein.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Schergeschwindigkeit im symmetrischen Rohr.odf and SKRIPT 9\Schergeschwindigkeit im symmetrischen Rohr.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Schubmodul.odf and SKRIPT 9\Schubmodul.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Shear_scherung.svg and SKRIPT 9\Shear_scherung.svg
+FC: no differences encountered
+
+Comparing files SKRIPT 09\SI-Einheit des Drucks.odf and SKRIPT 9\SI-Einheit des Drucks.odf
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.1.odp and SKRIPT 9\Skript 9.1.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.2.odp and SKRIPT 9\Skript 9.2.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.3.odp and SKRIPT 9\Skript 9.3.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.4 - Copy.odp and SKRIPT 9\Skript 9.4 - Copy.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.4.odp and SKRIPT 9\Skript 9.4.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.5.odp and SKRIPT 9\Skript 9.5.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.6.odp and SKRIPT 9\Skript 9.6.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.7.odp and SKRIPT 9\Skript 9.7.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\Skript 9.odp and SKRIPT 9\Skript 9.odp
+FC: no differences encountered
+
+Comparing files SKRIPT 09\ViskositÑt.odf and SKRIPT 9\ViskositÑt.odf
+FC: no differences encountered
+
