@@ -1,2 +1,0 @@
-for /l %i in (1,1,9) do fc "Skript "%i\*.* "Skript 0"%i\*.* >> vergleich.txt
-for /l %i in (1,1,9) do fc "Skript 0"%i\*.* "Skript "%i\*.* >> vergleich.txt
